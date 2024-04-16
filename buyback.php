@@ -4,7 +4,7 @@ $base_url = "https://esi.evetech.net/latest";
 
 // Your application's client ID and secret key
 $client_id = "133d439d1f864dbe9b7dc8fcc3cea648";
-$client_secret = "YOUR_CLIENT_SECRET";
+$client_secret = "Ey0z2ijrwchA8wAlaT0ubdQtchbB1CxhmKcodgYK";
 
 // Route to fetch materials in ship hangar
 if ($_SERVER["REQUEST_METHOD"] == "GET" && isset($_GET["materials"])) {
